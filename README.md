@@ -8,3 +8,5 @@ My first question would definitely be why go paperless instead of going secure. 
 This solution is a browser application.
 To run application, download or clone this repo, and then open index.html.
 [Solution can be found here](problem3/)
+## Problem 4
+This solution was created in SqlDBM and the solution can be found [here](https://app.sqldbm.com/MySQL/Share/D-EDFXcqaDmRJqTe3mjneUGFrngIE8md_DYjF4jNYw0)

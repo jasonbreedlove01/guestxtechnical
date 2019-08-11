@@ -5,8 +5,12 @@ My first question would definitely be why go paperless instead of going secure. 
 ## Problem 2
 [Solution can be found here](problem2/)
 ## Problem 3
-This solution is a browser application.
-To run application, download or clone this repo, and then open index.html.
+This solution is a browser application created using Bootstrap and JQuery.
+To run application, download or clone this repo, and then open problem3/index.html.
 [Solution can be found here](problem3/)
 ## Problem 4
 This solution was created in SqlDBM and the solution can be found [here](https://app.sqldbm.com/MySQL/Share/D-EDFXcqaDmRJqTe3mjneUGFrngIE8md_DYjF4jNYw0)
+## Problem 5
+This solution is a browser visualization created using Bootstrap, JQuery, and Chart.js.
+To run application, download or clone this repo, and then open problem5/index.html
+[Solution can be found here](problem5/)

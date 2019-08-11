@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Problem 3</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="indexScript.js"></script>
+</head>
+<body>
+
+    <div class="jumbotron text-center">
+        <h1>Problem 3 Answer</h1>
+    </div>
+  
+    <form class="container">
+        <div class="form-group">
+            <label for="input-text">Input Text:</label>
+            <textarea class="form-control" rows="8" id="input-text" name="input-text">
+I pledge allegiance to the Flag of the United States of America,
+and to the Republic for which it stands, one Nation under God,
+indivisible, with liberty and justice for all, should be rendered
+by standing at attention facing the flag with the right hand over
+the heart. When not in uniform men should remove any non-religious
+headdress with their right hand and hold it at the left shoulder,
+the hand being over the heart. Persons in uniform should remain
+silent, face the flag, and render the military salute.</textarea>
+        </div>
+        <div class="form-inline">
+            <label for="word-count" class="m-sm-2">Count every</label>
+            <input id="word-count" name="word-count" value="3">
+            <label for="vowel-count" class="m-sm-2">words, Count words with</label>
+            <input id="vowel-count" name="vowel-count" value="2">
+            <label for="line-count" class="m-sm-2">or more vowels, every</label>
+            <input id="line-count" name="line-count" value="2">
+            <label class="m-sm-2">lines.</label>
+            <button type="submit" class="btn btn-primary m-sm-2">Run</button>
+        </div>
+        <div id="output"></div>
+    </form>
+
+</body>
+</html>
